@@ -1,8 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">Hi 👋, I'm Chelsea Morais</h1>
 <h3 align="center">I am a computer science graduate 23' looking for job oppurtunities in Software roles.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chelseamorais&label=Profile%20views&color=0e75b6&style=flat" alt="chelseamorais" /> </p>
 
 
